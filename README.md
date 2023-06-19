@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Andrés Córdoba</h1>
-<h3 align="center">Hi, I am a fullstack developer passionate about technology and web development.</h3>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Andrés Córdoba</h1>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=3D80D2&size=29&center=true&vCenter=true&width=1000&height=100&lines=I+am+a+fullstack+developer+passionate+about+technology+and+web+developmnt."></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresco2022&label=Profile%20views&color=0e75b6&style=flat" alt="andresco2022" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andresco2022&label=Profile%20views&color=0e75b6&style=flat" alt="andresco2022" /> </p>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🌱 I’m currently learning **React, Angular, javaScript and other technologies present in the market.**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> -->
 
-- 👨‍💻 All of my projects are available at [https://portfolio-me2022.netlify.app/](https://portfolio-me2022.netlify.app/)
+- I’m currently learning **React, Angular, JavaScript, and other technologies in the market.**
+
+- All of my projects are available at [https://portfolio-me2022.netlify.app/](https://portfolio-me2022.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
