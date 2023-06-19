@@ -3,10 +3,10 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=3D80D2&size=29&center=true&vCenter=true&width=1000&height=100&lines=I+am+a+fullstack+developer+passionate+about+technology+and+web+developmnt."></a>
 </p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andresco2022&label=Profile%20views&color=0e75b6&style=flat" alt="andresco2022" /> </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=andresco2022&label=Profile%20views&color=0e75b6&style=flat" alt="andresco2022" /> </p>
+<picture><img src =https://github.com/ANDRESCO2022/ANDRESCO2022/blob/main/img/about_me.gif width = 80px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> -->
+<picture> <img align="right" src=https://github.com/ANDRESCO2022/ANDRESCO2022/blob/main/img/Right_Side.gif width = 250px></picture> 
 
 - I’m currently learning **React, Angular, JavaScript, and other technologies in the market.**
 
